@@ -20,7 +20,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gray-100 p-8">
       <div className="mx-auto max-w-xl">
-        <h1 className="mb-6 text-3xl font-bold">Todo List</h1>
+        <h1 className="mb-6 text-3xl font-bold">我的第一个Vercel项目</h1>
 
         <div className="mb-6 flex gap-2">
           <input
